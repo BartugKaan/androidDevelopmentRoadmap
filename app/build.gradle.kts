@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.bartugkaancelebi.kotlinlessons"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.bartugkaancelebi.kotlinlessons"
